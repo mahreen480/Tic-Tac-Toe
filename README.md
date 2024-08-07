@@ -1,2 +1,8 @@
-# tic_tac_toe
-Classic Tic-Tac-Toe game built with React. Players alternate placing "X" and "O" on a 3x3 grid. The app uses React’s `useState` for state management and checks for winning combinations. The Block component manages user interactions and displays the game state. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
